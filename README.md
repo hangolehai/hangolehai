@@ -2,7 +2,7 @@
 ---
 # 👋 About Me: Software Engineer Intern, CS @UIC + Minor Finance
 
-Strong focus on full-stack development and AI/ML systems. I enjoy building scalable applications that combine software engineering with machine learning, especially in areas like financial systems, real-time data processing, and intelligent automation.
+I build scalable full-stack and AI/ML systems, combining software engineering with machine learning to solve real-world problems in financial systems, real-time data processing, and intelligent automation.
 
 ---
 
