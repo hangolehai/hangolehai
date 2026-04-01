@@ -1,4 +1,4 @@
-## Hi there 👋, this is Hai Ha.
+## Hi there 👋, this is Hai Ha
 ---
 # 👋 About Me: Software Engineer Intern, CS @UIC + Minor Finance
 
