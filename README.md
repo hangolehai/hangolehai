@@ -32,8 +32,7 @@ I build scalable full-stack and AI/ML systems, combining software engineering wi
 **Languages:**  
 Python, C/C++, JavaScript, TypeScript, Java, SQL, R
 
-**Frameworks & Libraries:**
-React, Next.js, Node.js, Vue.js, Express, FastAPI, Flask, Tailwind CSS
+**Frameworks & Libraries:** React, Next.js, Node.js, Vue.js, Express, FastAPI, Flask, Tailwind CSS
 
 **AI & ML:**  
 TensorFlow, PyTorch, LangChain, scikit-learn, pandas, NumPy, OpenAI API, RAG (Architecture)
